@@ -1,0 +1,49 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  background-color: #212E35;
+  height: 768px;
+  width: 220px;
+  padding: 30px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-main-header {
+  font-size: 1em;
+}
+
+.App-revenue-header {
+  background-color: #2C3C45;
+  font-size: 1em;
+  height:768px;
+  width:1400px;
+  position: relative;
+  top:-220px;
+  left:220px;
+  color: white;
+  padding: 120px;
+  
+}
+
+.App-graph-color{
+  background-color: #36606A;
+  height: 200px;
+  width: 700px;
+  position: relative;
+  top:-620px;
+  left:350px;
+  padding-bottom: 200px;
+  padding-top: 100px;
+  padding-right: 700px;
+  margin-bottom: -50px;
+}
